@@ -1,4 +1,4 @@
-# w207-sec03-bhat-hejazi-huang-lauritzen
+# Predicting Seasonal Flu Vaccine
 ## Team Members: Tajesvi Bhat, Emily Huang, Yasmine Hejazi, Matt Lauritzen
 
 ### Introduction
