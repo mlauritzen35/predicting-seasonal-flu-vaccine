@@ -1,4 +1,4 @@
-# Predicting Seasonal Flu Vaccine
+# Predicting Seasonal Flu and H1N1 Vaccines
 ## Team Members: Tajesvi Bhat, Emily Huang, Yasmine Hejazi, Matt Lauritzen
 
 ### Introduction
